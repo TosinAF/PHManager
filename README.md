@@ -16,7 +16,7 @@ Add the PHManager folder to your project; including the Models.
 
 ###### `#import "PHManager.h"`
 
-### Get today's products
+### Get Today's Products
 
 Posts are cached for 60 minutes.
 
@@ -48,7 +48,7 @@ Example Code:
 
 Success Callback with an NSArray of PHProducts (In Ascending Order).
 
-### Get comments for any post
+### Get Comments for any Product
 
 Comments are cached for 120 minutes.
 
