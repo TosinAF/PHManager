@@ -20,7 +20,9 @@ Add the PHManager folder to your project; including the Models.
 
 Posts are cached for 60 minutes.
 
-##### `- (void)getTodaysProductsWithSuccess:(void (^) (NSArray *products))success failure:(RequestFailureBlock)failure;`
+```
+- (void)getTodaysProductsWithSuccess:(void (^) (NSArray *products))success failure:(RequestFailureBlock)failure;
+```
 
 Example Code:
 
@@ -50,7 +52,9 @@ Success Callback with an NSArray of PHProducts (In Ascending Order).
 
 Comments are cached for 120 minutes.
 
-##### `- (void)getCommentsForProduct:(PHProduct *)product success:(void (^) (NSArray *comments))success failure:(RequestFailureBlock)failure`
+```
+- (void)getCommentsForProduct:(PHProduct *)product success:(void (^) (NSArray *comments))success failure:(RequestFailureBlock)failure
+```
 
 Example Query:
 
