@@ -121,7 +121,7 @@ Some apps built using this API:
 
 | Name | Description | URL |
 | ---- | ---- | ---- |
-| TheNews (iOS) | PH, DN & HN, now on iOS | n/a |
+| TheNews (iOS) | PH, DN & HN, now on iOS | https://appsto.re/us/PpnV0.i |
 
 *If you are using PHManager, please let me know and I'll showcase your app here.*
 
